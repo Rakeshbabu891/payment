@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@uppy/companion": "^0.17.3",
+    "@uppy/companion": "^1.13.2",
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
     "configstore": "^4.0.0",
